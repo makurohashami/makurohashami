@@ -1,4 +1,4 @@
-- 💻 Java Intern/Junior Developer 
+- 💻 Java Developer 
 - 📫 Telegram: https://t.me/y0kai1
 - 🧑🏻 linkedin: https://www.linkedin.com/in/yaroslav-kotyk-792a6b229/
 - ⚡ Master Java -😕👎
