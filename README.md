@@ -3,8 +3,8 @@
 
 ---
 
-- 💻 Currently, I’m working on [Employees Spring Boot App](https://github.com/makurohashami/employees-spring-boot).
 - 👨🏻‍🎓 Now I'm learning Java.
+- 💻 Currently, I’m working on [Employees Spring Boot App](https://github.com/makurohashami/employees-spring-boot).
 
 ### Languages and Tools I am familiar with:
 
