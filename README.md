@@ -5,6 +5,7 @@
 
 - 👨🏻‍🎓 Now I'm learning Java.
 - 💻 Currently, I’m working on [Employees Spring Boot App](https://github.com/makurohashami/employees-spring-boot).
+- <img src="https://www.codewars.com/users/y0ka1/badges/large" alt="Codewars" height="25">
 
 ### Languages and Tools I am familiar with:
 
