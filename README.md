@@ -7,7 +7,7 @@
 - 💻 Currently, I’m working in [Suntech Innovation](https://jobs.dou.ua/companies/suntech-innovation/) as Java BE.
 - 🐱 My pet project: [Employees Spring Boot App](https://github.com/makurohashami/employees-spring-boot).
 
-- <img src="https://www.codewars.com/users/y0ka1/badges/large" alt="Codewars" height="32">
+- <img src="https://www.codewars.com/users/makurohashami/badges/large" alt="Codewars" height="32">
 
 ### Languages and Tools I am familiar with:
 
