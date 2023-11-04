@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 Now I'm learning Java.
 - 💻 Currently, I’m working in [Suntech Innovation](https://jobs.dou.ua/companies/suntech-innovation/) as Java BE.
-- 🐱 My pet project: [Employees Spring Boot App](https://github.com/makurohashami/employees-spring-boot).
+- 🐱 My pet project: [Realtor Connect](https://github.com/makurohashami/realtor-connect).
 
 - <img src="https://www.codewars.com/users/makurohashami/badges/large" alt="Codewars" height="32">
 
