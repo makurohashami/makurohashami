@@ -5,8 +5,7 @@
 
 - I’m working in [Suntech Innovation](https://jobs.dou.ua/companies/suntech-innovation/) as Java BE.
 - 🐱 My pet project: [Realtor Connect](https://github.com/makurohashami/realtor-connect).
-
-- <img src="https://www.codewars.com/users/makurohashami/badges/large" alt="Codewars" height="32">
+- <a href="https://www.codewars.com/users/makurohashami"><img src="https://www.codewars.com/users/makurohashami/badges/large" alt="Codewars" height="32"></a>
 
 ### Languages, tools and technologies I'm familiar with:
 
