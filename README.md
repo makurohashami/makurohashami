@@ -4,7 +4,7 @@
 ---
 
 - I’m working in [Suntech Innovation](https://jobs.dou.ua/companies/suntech-innovation/) as Java BE.
-- 🐱 My pet project: [Realtor Connect](https://github.com/makurohashami/realtor-connect) deployed at [realtorconnect.online](realtorconnect.online).
+- 🐱 My pet project: [Realtor Connect](https://github.com/makurohashami/realtor-connect) deployed at [realtorconnect.online](http://realtorconnect.online).
 
 - <a href="https://www.codewars.com/users/makurohashami"><img src="https://www.codewars.com/users/makurohashami/badges/large" alt="Codewars" height="32"></a>
 
